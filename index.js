@@ -4,8 +4,8 @@ const say = require("say")
 const open = require("open")
 
 const DETECTION_STRING_NOT_AVAILABLE = "Derzeit nicht verfügbar."; //OTHER COUNTRY, NEEDS A CHANGE
-const PLAYSTATION_DIGITAL_URL = "https://www.amazon.de/dp/B08H98GVK8/"; //OTHER COUNTRY, NEEDS A CHANGE
-const PLAYSTATION_DRIVE_URL = "https://www.amazon.de/dp/B08H93ZRK9/"; //OTHER COUNTRY, NEEDS A CHANGE
+const PLAYSTATION_DIGITAL_URL = "https://www.amazon.com/PlayStation-5-Digital/dp/B08FC6MR62/ref=sr_1_3?dchild=1&keywords=playstation+5&qid=1606160811&sr=8-3"; //OTHER COUNTRY, NEEDS A CHANGE
+const PLAYSTATION_DRIVE_URL = "https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG/ref=sr_1_2?dchild=1&keywords=playstation+5&qid=1606160811&sr=8-2"; //OTHER COUNTRY, NEEDS A CHANGE
 const INTERVAL = 30000;
 const AVAILABLE_MESSAGE = " ist auf Amazon verfügbar!";
 
